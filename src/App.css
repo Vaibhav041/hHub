@@ -1,0 +1,60 @@
+.image {
+  height: 720px;
+  width: 100%;
+
+}
+.nav-link:hover {
+  color: teal;
+}
+
+.navv{
+  margin-right: 10px;
+}
+.intro {
+  background-image: url('./img2.jpg');
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  position: relative;
+  opacity: 0.7;
+}
+.text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.btn {
+  height: 70px;
+  width: 200px;
+  border-radius: 0;
+  background-color: teal;
+  color: white;
+}
+.btn:hover {
+  background-color: rgb(5, 111, 111);
+  color: white;
+}
+.footer {
+  color: white;
+  height: 500px;
+  width: 100%;
+  /* background-color: #000c38; */
+  background-color: teal;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 50px;
+}
+.form-group {
+  margin-top: 8px;
+}
+.iconContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.iconItem {
+  display: flex;
+  flex-direction: column;
+}
