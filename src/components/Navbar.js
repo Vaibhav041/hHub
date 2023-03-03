@@ -5,8 +5,8 @@ const Navbar = () => {
   return (
     <>
       <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow-lg">
-        <Link class="navbar-brand" to="/">
-          Navbar
+        <Link class="navbar-brand" to="/" style={{color:"teal"}}>
+          The Hiring Hub
         </Link>
         <button
           class="navbar-toggler"
@@ -24,11 +24,6 @@ const Navbar = () => {
             <li class="nav-item active">
               <Link class="nav-link" to="/explore">
                 Explore Jobs
-              </Link>
-            </li>
-            <li class="nav-item">
-              <Link class="nav-link" to="/hire">
-                Hire Now
               </Link>
             </li>
           </ul>
