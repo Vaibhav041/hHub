@@ -23,10 +23,10 @@ const Footer = () => {
           <Link className="link" to="/explore">
             All Jobs
           </Link>
-          <Link className="link" to="/">
+          <Link className="link" to="/Terms">
             Terms and conditions
           </Link>
-          <Link className="link" to="/">
+          <Link className="link" to="/Privacy">
             Privacy Policy
           </Link>
         </div>
