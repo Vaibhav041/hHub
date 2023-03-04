@@ -304,7 +304,7 @@ const privacy = () => {
           threats to the physical safety of any person, to investigate and
           address violations of this Privacy Policy or the Terms of Service, or
           to investigate and address violations of the rights of third parties
-          and/or to protect the rights, property and safety of TalentXO, our
+          and/or to protect the rights, property and safety of Hiring Hub, our
           employees, users, or the public. This may involve the sharing of your
           information with law enforcement, government agencies, courts, and/or
           other organizations on account of legal requests such as subpoena,
@@ -312,7 +312,7 @@ const privacy = () => {
         </div>
         <div class="information-label-list-content">
           <strong>(f)&nbsp;</strong>If we believe disclosure is necessary or
-          appropriate to protect the rights, property, or safety of TalentXO,
+          appropriate to protect the rights, property, or safety of Hiring Hub,
           our customers or others. This includes exchanging information with
           other companies and organizations for the purposes of fraud protection
           and credit risk reduction.
@@ -337,11 +337,11 @@ const privacy = () => {
         <div class="information-label-content-list">
           <div>
             When you sign up for an account, you are opting in to receive emails
-            from other TalentXO users, businesses, and TalentXO itself. You can
+            from other Hiring Hub users, businesses, and Hiring Hub itself. You can
             log in to manage your email preferences and you can opt to give
             privacy settings to contacts, but note that you cannot opt out of
             receiving certain administrative notices, service notices, or legal
-            notices from TalentXO.
+            notices from Hiring Hub.
           </div>
         </div>
         <div class="information-label">
@@ -419,7 +419,7 @@ const privacy = () => {
               third-party access, or other causes beyond our control. You play
               an important role in keeping your personal information secure. You
               should not share your user name, password, or other security
-              information for your TalentXO account with anyone. If we receive
+              information for your Hiring Hub account with anyone. If we receive
               instructions using your user name and password, we will consider
               that you have authorized the instructions.
             </div>
@@ -456,7 +456,8 @@ const privacy = () => {
             disclosure of your information as described in this Privacy Policy,
             including to the transfer of your information outside of your
             country of residence. If you have any questions relating to your
-            personal data, please write to us on varun@talentxo.com.
+            personal data, please write to us on 
+
           </div>
         </div>
         <div class="information-label">Changes to this privacy policy</div>
